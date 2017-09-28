@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es6",
+    "moduleResolution": "node",
+    "jsx": "react"
+  },
+  "files": [
+    "./app/main.tsx",
+    "./app/AI/worker.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
